@@ -1,1 +1,2 @@
-# Deteksi-objek-dengan-metode-DNN-menggunakan-library-OpenCV
+# ObjectDetectionCNN
+Deteksi Object Menggunakan Metode CNN - Team 13 - Artificial Intelligence
